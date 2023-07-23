@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eduard Aivazian</h1>
 <h3 align="center">A passionate Python developer</h3>
 
-- 🔭 I’m currently working on [Django-Blog-App](https://github.com/Th3VaultDweller/Django-Blog-App)
+- 🔭 I’m currently working on [Django-Shop-App](https://github.com/Th3VaultDweller/Django-Shop-App)
 
 - 🌱 I’m currently learning **Django**, **PostgreSQL** and **Docker**
 
