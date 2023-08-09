@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eduard Aivazian</h1>
-<h3 align="center">A passionate Python developer</h3>
+<h3 align="center">A passionate Python Web Developer</h3>
 
 - 🔭 I’m currently working on [Django-Shop-App](https://github.com/Th3VaultDweller/Django-Shop-App)
 
