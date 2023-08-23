@@ -21,7 +21,5 @@
   <a href="https://docs.celeryq.dev/en/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" alt="celery" width="40" height="40"/> </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=th3vaultdweller&show_icons=true&locale=en" alt="th3vaultdweller" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=th3vaultdweller&" alt="th3vaultdweller" /></p>
 
