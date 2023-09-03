@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eduard Aivazian</h1>
 <h3 align="center">A passionate Python Web Developer</h3>
 
-- 🔭 I’m currently working on [Bootstrap-Landing-Page](https://github.com/Th3VaultDweller/Bootstrap-Landing-Page)
+- 🔭 I’m currently working on [Bootstrap-Store-Page](https://github.com/Th3VaultDweller/Bootstrap-Store-Page)
 
 - 🌱 I’m currently learning **Django**, **PostgreSQL** and **Docker**
 
