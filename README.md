@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🤘, I'm Eduard Aivazian</h1>
-<h3 align="center">A passionate Python Web Developer 🐍</h3>
+<h3 align="center">🐍 A passionate Python Web Developer 🐍</h3>
 
 - 🔭 I’m currently working on [Python-Interview-Quiz](https://github.com/Th3VaultDweller/Python-Interview-Quiz)
 
