@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Python-Interview-Quiz](https://github.com/Th3VaultDweller/Python-Interview-Quiz)
 
-- 🌱 I’m currently learning **Django**, **PostgreSQL** and **Docker**
+- 🌱 I’m currently learning **Django**, **Qt Designer** and **Docker**
 
 ## Skills and Tools:
 <p align="left"> 
