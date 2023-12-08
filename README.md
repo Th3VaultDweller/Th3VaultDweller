@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Python-Vkusvill-Parser](https://github.com/Th3VaultDweller/Python-Vkusvill-Parser)
 
-- 🌱 I’m currently learning **Django**, **Qt Designer** and **Docker**
+- 🌱 I’m currently learning **Django** and **Parsing/Scraping**
 
 ## Skills and Tools:
 <p align="left"> 
