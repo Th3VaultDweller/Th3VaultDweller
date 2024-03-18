@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🤘, I'm Eduard Aivazian</h1>
 <h3 align="center">🐍 A passionate Python Web Developer 🐍</h3>
 
-- 🔭 I’m currently working on [Python-WizardingWorld-Parser](https://github.com/Th3VaultDweller/Python-WizardingWorld-Parser)
+- 🔭 I’m currently working on [Python-Youla-Parser](https://github.com/Th3VaultDweller/Python-Youla-Parser)
 
 - 🌱 I’m currently learning **Django** and **Parsing/Scraping**
 
