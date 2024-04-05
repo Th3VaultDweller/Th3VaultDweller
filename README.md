@@ -25,9 +25,9 @@
 </p>
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Th3VaultDweller&theme=default) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Th3VaultDweller&theme=swift) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Th3VaultDweller&theme=default) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Th3VaultDweller&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Th3VaultDweller&theme=swift) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Th3VaultDweller&theme=swift)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=th3vaultdweller&" alt="th3vaultdweller" /></p>
