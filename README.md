@@ -4,9 +4,6 @@
 - 🔭 I’m currently working on [Python-YouTube-Transcriber](https://github.com/Th3VaultDweller/Python-YouTube-Transcriber)
 
 - 🌱 I’m currently learning **Django** and **Parsing/Scraping**
-- 🎸 I'm currently listening to:
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11159336621&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/kmjgxd3xqfnnlo82mg8ai448o?si=89ec280bac914a4b)
 
 
 ## Skills and Tools:
