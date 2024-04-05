@@ -4,6 +4,10 @@
 - 🔭 I’m currently working on [Python-YouTube-Transcriber](https://github.com/Th3VaultDweller/Python-YouTube-Transcriber)
 
 - 🌱 I’m currently learning **Django** and **Parsing/Scraping**
+- 🎸 I'm currently listening to:
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11159336621&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false)]((https://open.spotify.com/user/kmjgxd3xqfnnlo82mg8ai448o?si=d132a80b2c4b4d43))
+
 
 ## Skills and Tools:
 <p align="left"> 
@@ -23,5 +27,10 @@
   <a href="https://docs.celeryq.dev/en/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" alt="celery" width="40" height="40"/> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=th3vaultdweller&" alt="th3vaultdweller" /></p>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Th3VaultDweller&theme=default) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Th3VaultDweller&theme=default) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Th3VaultDweller&theme=default)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=th3vaultdweller&" alt="th3vaultdweller" /></p>
